@@ -16,7 +16,12 @@ cargo run --bin remove_duplicate
 
 ## Techniques
 
+There are several main techniques that we can use with arrays and Strings.
+
 ### Two Pointers
+
+The two pointers technique allows us to traverse from two directions, keeping our
+runtime no greater than O(N).
 
 ```lua
 function fn(arr)
