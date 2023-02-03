@@ -24,11 +24,11 @@ function fn(arr)
   right = arr.len() -1 
 
   while (left < right) do
-    // do some logic
+    // Some logic
     // Then do one of the following:
-    // 1. left++
-    // 2. right--
-    // 3. both left++ and right--
+    //   1. left++
+    //   2. right--
+    //   3. both left++ and right--
   end
 end
 ```
