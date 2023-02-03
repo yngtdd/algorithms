@@ -6,3 +6,7 @@ edition = "2021"
 [[bin]]
 name = "remove_duplicate"
 path = "src/remove_duplicate.rs"
+
+[[bin]]
+name = "contains_duplicate"
+path = "src/contains_duplicate.rs"
